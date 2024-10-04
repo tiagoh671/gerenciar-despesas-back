@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Despesas
+# Gerenciamento de Despesas - Frontend
 
 Este projeto é uma aplicação Back-End. **CRUD** de gerenciamento de despesas financeiras, construída utilizando **Express** e um banco de dados **MySQL** para persistência de dados. A aplicação permite listar, adicionar, alterar e remover despesas.
 
